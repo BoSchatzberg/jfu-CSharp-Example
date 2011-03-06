@@ -1,0 +1,6 @@
+C# Forms example of jQuery File Upload 
+https://github.com/BoSchatzberg/jfu-CSharp-Example
+
+This project is a C# example implementation of the jQuery-File-Upload project at http://aquantum-demo.appspot.com/file-upload
+
+The project was created using the setup instrutions at https://github.com/blueimp/jQuery-File-Upload.  Additional parameters are added to the jQuery setup and CSS changes have been made to better work with .Net.
